@@ -30,7 +30,3 @@ To install the necessary libraries, you can use the following command in your Co
 ## Contributing
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
-
-## License
-
-[Choose a license and include it here. For example, MIT License]
